@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @OffRange
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on my password mananger
+- 💞️ Currently I’m working on my password mananger
 - 📫 How to reach me on earth or later on on mars ;)
 
 <!---
