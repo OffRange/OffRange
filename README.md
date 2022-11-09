@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning ...
 - 💞️ Currently I’m working on my password mananger
-- 📫 How to reach me? On earth or later on on mars ;)
+- 📫 How to reach me? On earth or later on mars ;)
 
 <!---
 OffRange/OffRange is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
