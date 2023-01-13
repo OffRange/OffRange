@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OffRange
+- 👋 Hi, I’m Davis
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning ...
 - 💞️ Currently I’m working on my password mananger
