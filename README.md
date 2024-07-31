@@ -23,3 +23,6 @@ If you find my projects valuable and would like to support me, you can buy me a 
 Thank you for visiting my GitHub profile! Feel free to explore my repositories, and if you have any questions or feedback, please don't hesitate to reach out.
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U7U2K7LDU)
+
+## My most frequently used languages
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=OffRange&theme=dark&show_icons=true&hide_border=true&layout=compact)
