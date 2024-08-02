@@ -1,6 +1,6 @@
 # Hi, I'm Davis Wolfermann (OffRange)!
 
-Welcome to my GitHub profile! I'm Davis born on July 23, 2005, a passionate individual who enjoys creating secure solutions and exploring the fascinating field of artificial intelligence. Currently, I'm about to graduate from high school, striving to expand my knowledge and skills.
+Welcome to my GitHub profile! I'm Davis born on July 23, 2005, a passionate individual who enjoys creating secure solutions and exploring the fascinating field of artificial intelligence. I recently graduated from high school and am now pursuing a degree in Cyber Security at the "Hochschule Mittweida - University of Applied Sciences", where I continue to expand my knowledge and skills.
 
 ## Projects
 
