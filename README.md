@@ -35,4 +35,4 @@ Thank you for visiting my GitHub profile! Feel free to explore my repositories, 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U7U2K7LDU)
 
 ## My most frequently used languages
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=OffRange&theme=dark&show_icons=true&hide_border=true&layout=compact)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=OffRange&layout=compact&theme=github_dark)
